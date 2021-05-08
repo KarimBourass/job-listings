@@ -1,0 +1,60 @@
+section {
+  background-color: hsl(185, 57%, 96%);
+  height: 100%;
+  padding-top: 4em;
+}
+.jobs {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Spartan", sans-serif;
+}
+
+.box {
+  padding: 1em 2em;
+  background-color: white;
+  border-radius: 10px;
+  width: 70%;
+  max-width: 1400px;
+  display: flex;
+  justify-content: space-between;
+
+  .left-box {
+    display: flex;
+    align-items: center;
+    width: 50%;
+  }
+  .job-info {
+    margin-left: 1em;
+    width: 60%;
+    h3 {
+      color: hsl(179, 28%, 50%);
+    }
+
+    .job-title {
+      color: hsl(179, 28%, 50%);
+      font-weight: 600;
+    }
+    .extra-info {
+      display: flex;
+      justify-content: space-between;
+      color: gray;
+    }
+  }
+
+  .right-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 50%;
+    p {
+      background-color: hsl(164, 40%, 98%);
+      color: hsl(179, 28%, 50%);
+      padding: 0.75em;
+      border-radius: 5px;
+      font-weight: 600;
+      margin-left: 1em;
+    }
+  }
+}

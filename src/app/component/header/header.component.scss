@@ -1,0 +1,22 @@
+header{
+  background: url(https://i.ibb.co/Hg9gj5G/bg-header-desktop.png);
+  background-size: cover;
+  background-color: hsl(179,28%,50%);
+  height: 10em;
+  font-family: 'Spartan', sans-serif;
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  .search-input{
+    position: absolute;
+    top: 9em;
+    margin: 0 auto;
+    width: 70%;
+    padding: 2em 3em;
+    border: none;
+    border-radius: 5px;
+    max-width: 1400px;
+    box-shadow: 3px 4px #e0dfdf;
+  }
+}
