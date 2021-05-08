@@ -11,7 +11,7 @@ export class JobService {
     {
       "id": 1,
       "company": "Photosnap",
-      "logo": "./images/photosnap.svg",
+      "logo": "assets/images/photosnap.svg",
       "new": true,
       "featured": true,
       "position": "Senior Frontend Developer",
@@ -26,7 +26,7 @@ export class JobService {
     {
       "id": 2,
       "company": "Manage",
-      "logo": "./images/manage.svg",
+      "logo": "assets/images/manage.svg",
       "new": true,
       "featured": true,
       "position": "Fullstack Developer",
@@ -41,7 +41,7 @@ export class JobService {
     {
       "id": 3,
       "company": "Account",
-      "logo": "./images/account.svg",
+      "logo": "assets/images/account.svg",
       "new": true,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -56,7 +56,7 @@ export class JobService {
     {
       "id": 4,
       "company": "MyHome",
-      "logo": "./images/myhome.svg",
+      "logo": "assets/images/myhome.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -71,7 +71,7 @@ export class JobService {
     {
       "id": 5,
       "company": "Loop Studios",
-      "logo": "./images/loop-studios.svg",
+      "logo": "assets/images/loop-studios.svg",
       "new": false,
       "featured": false,
       "position": "Software Engineer",
@@ -86,7 +86,7 @@ export class JobService {
     {
       "id": 6,
       "company": "FaceIt",
-      "logo": "./images/faceit.svg",
+      "logo": "assets/images/faceit.svg",
       "new": false,
       "featured": false,
       "position": "Junior Backend Developer",
@@ -101,7 +101,7 @@ export class JobService {
     {
       "id": 7,
       "company": "Shortly",
-      "logo": "./images/shortly.svg",
+      "logo": "assets/images/shortly.svg",
       "new": false,
       "featured": false,
       "position": "Junior Developer",
@@ -116,7 +116,7 @@ export class JobService {
     {
       "id": 8,
       "company": "Insure",
-      "logo": "./images/insure.svg",
+      "logo": "assets/images/insure.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -131,7 +131,7 @@ export class JobService {
     {
       "id": 9,
       "company": "Eyecam Co.",
-      "logo": "./images/eyecam-co.svg",
+      "logo": "assets/images/eyecam-co.svg",
       "new": false,
       "featured": false,
       "position": "Full Stack Engineer",
@@ -146,7 +146,7 @@ export class JobService {
     {
       "id": 10,
       "company": "The Air Filter Company",
-      "logo": "./images/the-air-filter-company.svg",
+      "logo": "assets/images/the-air-filter-company.svg",
       "new": false,
       "featured": false,
       "position": "Front-end Dev",
