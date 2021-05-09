@@ -4,13 +4,12 @@
   3- ng serve
 # Desing
 ## Desktop
-![](assets/images/desktop-preview.png)
+![](https://i.ibb.co/wCb3bb1/desktop-design.jpg)
 ## Mobile
-![](assets/images/mobile-design.png)
-
+![](https://i.ibb.co/zHgX1yV/mobile-with-filters.jpg)
 # My solution
 ## Desktop
-![](assets/images/mydesktop.png)
+![](https://i.ibb.co/wYGwmpJ/mydesktop.png)
 
 ## Mobile
-![](assets/images/mymobile.jpg)
+![](https://i.ibb.co/1fbML6d/mymobile.png)
