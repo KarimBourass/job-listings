@@ -1,22 +1,31 @@
-header{
+header {
   background: url(https://i.ibb.co/Hg9gj5G/bg-header-desktop.png);
   background-size: cover;
-  background-color: hsl(179,28%,50%);
+  background-color: hsl(179, 28%, 50%);
   height: 10em;
-  font-family: 'Spartan', sans-serif;
+  font-family: "Spartan", sans-serif;
   display: flex;
   justify-content: center;
   position: relative;
 
-  .search-input{
+  .search-input {
     position: absolute;
-    top: 9em;
+    top: 4.5em;
     margin: 0 auto;
     width: 70%;
-    padding: 2em 3em;
+    padding: 1.5em 2em;
     border: none;
     border-radius: 5px;
     max-width: 1400px;
     box-shadow: 3px 4px #e0dfdf;
+    font-family: "Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    color: hsl(179, 28%, 50%);
+  }
+  input:focus,
+  textarea:focus,
+  select:focus {
+    outline: none;
   }
 }

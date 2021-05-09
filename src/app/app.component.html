@@ -1,4 +1,4 @@
 <div class="content">
-  <app-header></app-header>
-  <app-home></app-home>
+  <app-header (searchInput)="searchInput($event)"></app-header>
+  <app-home [searchInput]=inputSearch></app-home>
 </div>

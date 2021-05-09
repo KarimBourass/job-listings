@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'job-listings';
+  inputSearch = '';
+
+
+  searchInput(myInput:string){
+    console.log('====dqcq=dfk ovqd');
+    console.log(myInput);
+
+    this.inputSearch = myInput
+  }
 }
