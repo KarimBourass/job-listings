@@ -87,9 +87,8 @@ section {
 
 @media screen and (max-width: 600px) {
   .box {
-    height: 20em;
     margin-top: 2em;
-    width: 80%;
+    width: 70%;
 
     .left-box {
       margin-top: 2em;
@@ -98,7 +97,7 @@ section {
 
       img {
         position: absolute;
-        bottom: 12em;
+        top: -6em;
       }
 
       .job-info {
